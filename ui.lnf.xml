@@ -3,6 +3,7 @@
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
     <option name="smoothScrolling" value="false" />
   </component>
 </application>
