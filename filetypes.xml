@@ -1,8 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".env" type="Native" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern="events" type="TypeScript" />
       <removed_mapping ext="ejs" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
