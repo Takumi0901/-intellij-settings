@@ -2,8 +2,12 @@
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="18" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="2ca72aed:16b0bc3946b:-8000" />
     <option name="version" value="4.11.4" />
   </component>
