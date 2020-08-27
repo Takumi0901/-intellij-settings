@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="composer.lock" type="JSON" />
-      <mapping pattern="phpunit.xml.dist" type="XML" />
+      <mapping ext="vue" type="Native" />
     </extensionMap>
   </component>
 </application>
